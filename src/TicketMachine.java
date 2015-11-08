@@ -16,8 +16,6 @@
  */
 public class TicketMachine
 {
-	// This is a test comment for repository
-	// another commit 1
 	private int price;  // The price of a ticket from this machine.
 	private int balance; // The amount of money entered by a customer so far.
 	private int total; // The total amount of money collected by this machine.

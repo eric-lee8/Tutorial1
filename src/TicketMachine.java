@@ -10,7 +10,7 @@
  * It is a naive machine in the sense that it trusts its users
  * to insert enough money before trying to print a ticket.
  * It also assumes that users enter sensible amounts.
- *
+ * hello
  * @author David J. Barnes and Michael Kolling
  * @version 2011.07.31
  */
